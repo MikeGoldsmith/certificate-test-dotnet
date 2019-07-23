@@ -1,0 +1,6 @@
+{
+	"cluster": "https://localhost:18091",
+	"bucket": "travel-sample",
+	"thumbprint": "<thumbprint>",
+	"doc_id": "airline_10"
+}
